@@ -1,0 +1,5404 @@
+[
+  {
+    "id": "conf-all-things-open",
+    "name": "All Things Open",
+    "description": "One of the largest open-source conferences in the US. Covers open source, AI/ML, cloud, security, community, and leadership with 7,000+ attendees.",
+    "url": "https://allthingsopen.org",
+    "cfpUrl": "https://allthingsopen.org/call-for-papers",
+    "location": "Raleigh, NC, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source",
+      "community",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "workshop",
+      "keynote"
+    ],
+    "eventStartDate": "2026-10-26",
+    "eventEndDate": "2026-10-28",
+    "cfpCloseDate": "2026-03-31",
+    "speakerPerks": [
+      "travel",
+      "hotel"
+    ],
+    "estimatedAttendees": "5000-7000",
+    "featured": true,
+    "notes": "Explicitly seeks diverse speakers and first-time presenters. Monday workshops are new and actively seeking submissions.",
+    "tags": [
+      "open-source",
+      "community",
+      "ai"
+    ]
+  },
+  {
+    "id": "conf-kubecon-na",
+    "name": "KubeCon + CloudNativeCon North America",
+    "description": "The flagship conference for the Kubernetes and cloud-native ecosystem. Massive community event with thousands of attendees.",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+    "location": "Los Angeles, CA, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source",
+      "platform-engineering",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "workshop",
+      "keynote",
+      "panel"
+    ],
+    "eventStartDate": "2026-11-10",
+    "eventEndDate": "2026-11-13",
+    "cfpCloseDate": "2026-06-15",
+    "speakerPerks": [
+      "travel",
+      "hotel"
+    ],
+    "estimatedAttendees": "10000+",
+    "tags": [
+      "kubernetes",
+      "cloud-native",
+      "open-source"
+    ]
+  },
+  {
+    "id": "conf-kubecon-eu",
+    "name": "KubeCon + CloudNativeCon Europe",
+    "description": "The European edition of the cloud-native community's flagship event. Strong DevRel presence with many developer advocates speaking.",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source",
+      "platform-engineering",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "workshop",
+      "keynote",
+      "panel"
+    ],
+    "eventStartDate": "2026-03-23",
+    "eventEndDate": "2026-03-26",
+    "cfpCloseDate": "2025-11-28",
+    "speakerPerks": [
+      "travel",
+      "hotel"
+    ],
+    "estimatedAttendees": "10000+",
+    "tags": [
+      "kubernetes",
+      "cloud-native",
+      "open-source"
+    ]
+  },
+  {
+    "id": "conf-fosdem",
+    "name": "FOSDEM",
+    "description": "The largest free and open-source developer conference in Europe. Completely free, volunteer-run, with hundreds of talks across dozens of devrooms.",
+    "url": "https://fosdem.org",
+    "location": "Brussels, Belgium",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source",
+      "community",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "workshop"
+    ],
+    "eventStartDate": "2027-02-06",
+    "eventEndDate": "2027-02-07",
+    "cfpCloseDate": "2026-11-01",
+    "estimatedAttendees": "8000+",
+    "notes": "Free to attend. CFPs are per-devroom, not centralized. Apply to specific devrooms.",
+    "tags": [
+      "open-source",
+      "free",
+      "community"
+    ]
+  },
+  {
+    "id": "conf-developer-week",
+    "name": "DeveloperWeek",
+    "description": "One of the world's largest developer conferences and expo. Covers AI, APIs, microservices, DevOps, and developer tools.",
+    "url": "https://www.developerweek.com",
+    "location": "San Francisco, CA, USA",
+    "region": "north-america",
+    "format": "hybrid",
+    "audienceTypes": [
+      "general-tech",
+      "developer-experience",
+      "developer-marketing"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop",
+      "keynote",
+      "panel"
+    ],
+    "eventStartDate": "2027-02-10",
+    "eventEndDate": "2027-02-12",
+    "cfpCloseDate": "2026-09-30",
+    "estimatedAttendees": "5000-8000",
+    "tags": [
+      "developer-tools",
+      "api",
+      "ai"
+    ]
+  },
+  {
+    "id": "conf-apidays",
+    "name": "apidays",
+    "description": "The leading API industry conference series, held in multiple cities worldwide. Covers API strategy, design, security, and developer experience.",
+    "url": "https://www.apidays.global",
+    "location": "Multiple cities worldwide",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "developer-experience",
+      "developer-marketing",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "workshop",
+      "keynote",
+      "panel"
+    ],
+    "eventStartDate": "2026-12-02",
+    "eventEndDate": "2026-12-04",
+    "speakerPerks": [
+      "speaker-dinner"
+    ],
+    "estimatedAttendees": "1000-3000",
+    "tags": [
+      "api",
+      "developer-experience",
+      "integration"
+    ]
+  },
+  {
+    "id": "conf-open-source-summit-na",
+    "name": "Open Source Summit North America",
+    "description": "The Linux Foundation's premier open source event. Covers open source development, community, compliance, and emerging technologies.",
+    "url": "https://events.linuxfoundation.org/open-source-summit-north-america/",
+    "location": "Denver, CO, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source",
+      "community",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "workshop",
+      "keynote",
+      "panel"
+    ],
+    "eventStartDate": "2026-06-23",
+    "eventEndDate": "2026-06-25",
+    "cfpCloseDate": "2026-03-01",
+    "speakerPerks": [
+      "travel",
+      "hotel"
+    ],
+    "estimatedAttendees": "3000-5000",
+    "tags": [
+      "open-source",
+      "linux",
+      "community"
+    ]
+  },
+  {
+    "id": "conf-github-universe",
+    "name": "GitHub Universe",
+    "description": "GitHub's annual flagship conference. Covers developer tools, AI-assisted development, open source, and the future of software development.",
+    "url": "https://githubuniverse.com",
+    "location": "San Francisco, CA, USA",
+    "region": "north-america",
+    "format": "hybrid",
+    "audienceTypes": [
+      "general-tech",
+      "open-source",
+      "developer-experience"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop",
+      "keynote"
+    ],
+    "eventStartDate": "2026-10-27",
+    "eventEndDate": "2026-10-28",
+    "estimatedAttendees": "2000-5000",
+    "tags": [
+      "github",
+      "developer-tools",
+      "ai"
+    ]
+  },
+  {
+    "id": "conf-that-conference",
+    "name": "THAT Conference",
+    "description": "A community-driven technical conference held at a waterpark resort. Family-friendly with a strong emphasis on community and inclusion.",
+    "url": "https://thatconference.com",
+    "location": "Wisconsin Dells, WI, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "community",
+      "devrel"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop",
+      "keynote",
+      "unconference"
+    ],
+    "eventStartDate": "2026-07-27",
+    "eventEndDate": "2026-07-30",
+    "cfpCloseDate": "2026-03-15",
+    "speakerPerks": [
+      "hotel"
+    ],
+    "estimatedAttendees": "1000-2000",
+    "notes": "Very welcoming to first-time speakers. Family-friendly venue.",
+    "tags": [
+      "community",
+      "inclusive",
+      "family-friendly"
+    ]
+  },
+  {
+    "id": "conf-wearedevelopers",
+    "name": "WeAreDevelopers World Congress",
+    "description": "One of Europe's largest developer conferences. Covers the full spectrum of software development with a strong community focus.",
+    "url": "https://www.wearedevelopers.com",
+    "location": "Berlin, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "developer-experience",
+      "community"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop",
+      "keynote",
+      "panel"
+    ],
+    "eventStartDate": "2026-07-14",
+    "eventEndDate": "2026-07-16",
+    "cfpCloseDate": "2026-02-28",
+    "speakerPerks": [
+      "travel",
+      "hotel"
+    ],
+    "estimatedAttendees": "10000+",
+    "tags": [
+      "developer",
+      "community",
+      "europe"
+    ]
+  },
+  {
+    "id": "conf-render-atl",
+    "name": "Render ATL",
+    "description": "A multi-day software engineering conference focused on frontend, design, and emerging tech. Strong emphasis on diversity and inclusion.",
+    "url": "https://www.renderatl.com",
+    "location": "Atlanta, GA, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "developer-experience",
+      "community"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop",
+      "keynote"
+    ],
+    "eventStartDate": "2026-06-10",
+    "eventEndDate": "2026-06-13",
+    "cfpCloseDate": "2026-01-31",
+    "speakerPerks": [
+      "travel",
+      "hotel",
+      "stipend"
+    ],
+    "estimatedAttendees": "3000-5000",
+    "notes": "Strong focus on diversity. Speaker stipend available.",
+    "tags": [
+      "frontend",
+      "design",
+      "diversity"
+    ]
+  },
+  {
+    "id": "conf-community-over-code",
+    "name": "Community Over Code (ApacheCon)",
+    "description": "The Apache Software Foundation's official conference. Covers open source governance, community building, and Apache projects.",
+    "url": "https://communityovercode.org",
+    "location": "Denver, CO, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source",
+      "community",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "workshop",
+      "keynote"
+    ],
+    "eventStartDate": "2026-10-07",
+    "eventEndDate": "2026-10-09",
+    "cfpCloseDate": "2026-05-15",
+    "speakerPerks": [
+      "travel",
+      "hotel"
+    ],
+    "estimatedAttendees": "500-1000",
+    "tags": [
+      "apache",
+      "open-source",
+      "community"
+    ]
+  },
+  {
+    "id": "conf-devoxx",
+    "name": "Devoxx Belgium",
+    "description": "One of the most influential developer conferences in Europe. Known for high-quality technical content and a strong community atmosphere.",
+    "url": "https://devoxx.be",
+    "location": "Antwerp, Belgium",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "developer-experience",
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "workshop",
+      "keynote"
+    ],
+    "eventStartDate": "2026-10-12",
+    "eventEndDate": "2026-10-16",
+    "cfpCloseDate": "2026-06-30",
+    "speakerPerks": [
+      "hotel"
+    ],
+    "estimatedAttendees": "3000-3500",
+    "tags": [
+      "java",
+      "developer-tools",
+      "europe"
+    ]
+  },
+  {
+    "id": "conf-devopsdays",
+    "name": "DevOpsDays",
+    "description": "A worldwide series of community-organized conferences covering DevOps, SRE, and platform engineering. Events in 70+ cities annually.",
+    "url": "https://devopsdays.org",
+    "location": "Multiple cities worldwide",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "platform-engineering",
+      "community",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "unconference"
+    ],
+    "estimatedAttendees": "200-500",
+    "notes": "Community-organized. Each city has its own CFP. Check devopsdays.org for specific city dates.",
+    "tags": [
+      "devops",
+      "sre",
+      "community"
+    ]
+  },
+  {
+    "id": "conf-pycon-us",
+    "name": "PyCon US",
+    "description": "The largest annual gathering for the Python community. Strong DevRel presence with many developer advocates presenting.",
+    "url": "https://us.pycon.org",
+    "location": "Pittsburgh, PA, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source",
+      "community",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "workshop",
+      "keynote",
+      "unconference"
+    ],
+    "eventStartDate": "2026-05-13",
+    "eventEndDate": "2026-05-21",
+    "cfpCloseDate": "2025-12-19",
+    "speakerPerks": [
+      "travel",
+      "hotel"
+    ],
+    "estimatedAttendees": "3000-4000",
+    "notes": "Includes sprints after the main conference. Financial aid available for speakers.",
+    "tags": [
+      "python",
+      "open-source",
+      "community"
+    ]
+  },
+  {
+    "id": "conf-strange-loop",
+    "name": "Strange Loop",
+    "description": "A multi-disciplinary conference covering emerging languages, alternative databases, concurrency, distributed systems, and more.",
+    "url": "https://www.thestrangeloop.com",
+    "location": "St. Louis, MO, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "developer-experience"
+    ],
+    "talkFormats": [
+      "talk",
+      "keynote"
+    ],
+    "estimatedAttendees": "1500-2000",
+    "notes": "Highly selective. Known for unique, thought-provoking talks.",
+    "tags": [
+      "emerging-tech",
+      "programming-languages",
+      "distributed-systems"
+    ]
+  },
+  {
+    "id": "conf-qcon",
+    "name": "QCon",
+    "description": "A practitioner-driven conference for senior software engineers and architects. Multiple events worldwide (London, San Francisco, etc.).",
+    "url": "https://qconferences.com",
+    "location": "London / San Francisco",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "developer-experience",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop",
+      "keynote"
+    ],
+    "estimatedAttendees": "1000-2000",
+    "notes": "Invite-based speaker selection. Focuses on real-world practitioner experience.",
+    "tags": [
+      "architecture",
+      "engineering-leadership",
+      "practices"
+    ]
+  },
+  {
+    "id": "conf-open-source-summit-eu",
+    "name": "Open Source Summit Europe",
+    "description": "The Linux Foundation's premier European open source event. Covers open source development, community, security, and emerging technologies.",
+    "url": "https://events.linuxfoundation.org/open-source-summit-europe/",
+    "location": "Dublin, Ireland",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source",
+      "community",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "workshop",
+      "keynote",
+      "panel"
+    ],
+    "eventStartDate": "2026-09-15",
+    "eventEndDate": "2026-09-17",
+    "cfpCloseDate": "2026-05-30",
+    "speakerPerks": [
+      "travel",
+      "hotel"
+    ],
+    "estimatedAttendees": "2000-3000",
+    "tags": [
+      "open-source",
+      "linux",
+      "europe"
+    ]
+  },
+  {
+    "id": "conf-api-world",
+    "name": "API World",
+    "description": "The largest API and microservices conference. Covers API design, developer experience, integration, and API-first strategies.",
+    "url": "https://apiworld.co",
+    "location": "Santa Clara, CA, USA",
+    "region": "north-america",
+    "format": "hybrid",
+    "audienceTypes": [
+      "developer-experience",
+      "developer-marketing",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop",
+      "keynote",
+      "panel"
+    ],
+    "eventStartDate": "2026-10-27",
+    "eventEndDate": "2026-10-29",
+    "cfpCloseDate": "2026-06-30",
+    "estimatedAttendees": "3000-5000",
+    "tags": [
+      "api",
+      "developer-experience",
+      "microservices"
+    ]
+  },
+  {
+    "id": "conf-jsconf",
+    "name": "JSConf",
+    "description": "The original JavaScript conference series. Community-driven events known for pushing the boundaries of what's possible with JavaScript.",
+    "url": "https://jsconf.com",
+    "location": "Various",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "community",
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk",
+      "lightning",
+      "workshop"
+    ],
+    "estimatedAttendees": "500-1000",
+    "notes": "Multiple regional events. Check jsconf.com for specific city CFPs.",
+    "tags": [
+      "javascript",
+      "frontend",
+      "community"
+    ]
+  },
+  {
+    "id": "conf-31",
+    "name": "3rd International Conference on Artificial Intelligence and Data Science",
+    "description": "3rd International Conference on Artificial Intelligence and Data Science",
+    "url": "https://confs.tech/data",
+    "location": "Dubai, United Arab Emirates",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2027-02-01",
+    "eventEndDate": "2027-02-03"
+  },
+  {
+    "id": "conf-33",
+    "name": "7th International Conference on NLP & Information Retrieval",
+    "description": "International Conference on NLP & Information Retrieval",
+    "url": "https://confs.tech/data",
+    "location": "Copenhagen, Denmark",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-25",
+    "eventEndDate": "2026-04-26"
+  },
+  {
+    "id": "conf-34",
+    "name": "AAAI",
+    "description": "AAAI Conference on Artificial Intelligence",
+    "url": "https://aaai.org/Conferences/AAAI/",
+    "location": "Philadelphia, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2025-03-15",
+    "cfpCloseDate": "2024-08-07"
+  },
+  {
+    "id": "conf-36",
+    "name": "ACM CHI 2026",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Limassol, Cyprus",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-13",
+    "eventEndDate": "2026-04-16"
+  },
+  {
+    "id": "conf-37",
+    "name": "ACSAC 2026",
+    "description": "Annual Computer Security Applications Conference",
+    "url": "https://www.acsac.org/2026/",
+    "cfpUrl": "https://www.acsac.org/2026/papers/",
+    "location": "Austin, Texas, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-12-07",
+    "eventEndDate": "2026-12-11"
+  },
+  {
+    "id": "conf-38",
+    "name": "AfroTech Conference",
+    "description": "A conference for Black tech innovators and entrepreneurs.",
+    "url": "https://afrotechconference.com/",
+    "cfpUrl": "https://app.sessionboard.com/submit/afrotech-conference-2026/36e83672-778f-402c-90b7-eed6a5592466",
+    "location": "Houston, TX, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "community",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "panel",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-11-02",
+    "eventEndDate": "2026-11-06",
+    "cfpCloseDate": "2026-04-10",
+    "estimatedAttendees": "40000+"
+  },
+  {
+    "id": "conf-39",
+    "name": "AgentCon Hong Kong",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Hong Kong, Hong Kong",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-11",
+    "eventEndDate": "2026-04-11"
+  },
+  {
+    "id": "conf-40",
+    "name": "AI Con USA",
+    "description": "AI Con USA",
+    "url": "https://confs.tech/data",
+    "location": "Seattle, USA",
+    "region": "north-america",
+    "format": "hybrid",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-07",
+    "eventEndDate": "2026-06-12"
+  },
+  {
+    "id": "conf-41",
+    "name": "AI DevCon",
+    "description": "AI DevCon",
+    "url": "https://confs.tech/data",
+    "location": "London, UK",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-01",
+    "eventEndDate": "2026-06-02"
+  },
+  {
+    "id": "conf-42",
+    "name": "AI for Developers",
+    "description": "AI for Developers",
+    "url": "https://confs.tech/data",
+    "location": "Online",
+    "region": "online",
+    "format": "virtual",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-12-17",
+    "eventEndDate": "2026-12-18"
+  },
+  {
+    "id": "conf-43",
+    "name": "AI Future",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Moscow, Russia",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-14",
+    "eventEndDate": "2026-04-15"
+  },
+  {
+    "id": "conf-44",
+    "name": "AI Maitri - Dubai 2026",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Dubai, United Arab Emirates",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-09",
+    "eventEndDate": "2026-04-09"
+  },
+  {
+    "id": "conf-45",
+    "name": "AI Product Summit",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "San Jose, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-15",
+    "eventEndDate": "2026-04-15"
+  },
+  {
+    "id": "conf-46",
+    "name": "Ai-fokus",
+    "description": "Ai-fokus",
+    "url": "https://confs.tech/data",
+    "location": "Stockholm, Sweden",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-19",
+    "eventEndDate": "2026-05-19"
+  },
+  {
+    "id": "conf-47",
+    "name": "AISTATS",
+    "description": "International Conference on Artificial Intelligence and Statistics",
+    "url": "https://aistats.org/",
+    "location": "Phuket, Thailand",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2025-05-15",
+    "cfpCloseDate": "2024-10-03"
+  },
+  {
+    "id": "conf-49",
+    "name": "APF 2026",
+    "description": "Annual Privacy Forum",
+    "url": "https://www.google.com/search?q=APF+2026",
+    "location": "Salzburg, Austria",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-09-09",
+    "eventEndDate": "2026-09-10",
+    "cfpCloseDate": "2026-04-16"
+  },
+  {
+    "id": "conf-50",
+    "name": "API Conference Berlin 2026",
+    "description": "The conference for API and web services professionals.",
+    "url": "https://apiconference.net/berlin/",
+    "location": "Berlin, Germany",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "cloud",
+      "backend",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-11-23",
+    "eventEndDate": "2026-11-27"
+  },
+  {
+    "id": "conf-51",
+    "name": "API Conference NYC 2026",
+    "description": "The conference for API and web services professionals.",
+    "url": "https://apiconference.net/new-york/",
+    "location": "New York, New York, United States",
+    "region": "north-america",
+    "format": "hybrid",
+    "audienceTypes": [
+      "cloud",
+      "backend",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-10-02",
+    "eventEndDate": "2026-10-02"
+  },
+  {
+    "id": "conf-52",
+    "name": "apidays Amsterdam",
+    "description": "The global API conference series.",
+    "url": "https://www.apidays.global/amsterdam",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-06-09",
+    "eventEndDate": "2026-06-10"
+  },
+  {
+    "id": "conf-53",
+    "name": "apidays Australia",
+    "description": "The global API conference series.",
+    "url": "https://www.apidays.global/australia",
+    "location": "Australia",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-10-28",
+    "eventEndDate": "2026-10-29"
+  },
+  {
+    "id": "conf-54",
+    "name": "apidays India",
+    "description": "The global API conference series.",
+    "url": "https://www.apidays.global/india",
+    "location": "India",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-08-19",
+    "eventEndDate": "2026-08-20"
+  },
+  {
+    "id": "conf-55",
+    "name": "apidays London",
+    "description": "The global API conference series.",
+    "url": "https://www.apidays.global/london",
+    "location": "London, UK",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-10-01",
+    "eventEndDate": "2026-10-01"
+  },
+  {
+    "id": "conf-56",
+    "name": "apidays Munich",
+    "description": "The global API conference series.",
+    "url": "https://www.apidays.global/munich",
+    "location": "Munich, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-07-08",
+    "eventEndDate": "2026-07-09"
+  },
+  {
+    "id": "conf-57",
+    "name": "apidays New York",
+    "description": "The global API conference series.",
+    "url": "https://www.apidays.global/new-york",
+    "location": "New York, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-13",
+    "eventEndDate": "2026-05-14"
+  },
+  {
+    "id": "conf-58",
+    "name": "apidays Paris",
+    "description": "The global API conference series.",
+    "url": "https://www.apidays.global/paris",
+    "location": "Paris, France",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-12-01",
+    "eventEndDate": "2026-12-03"
+  },
+  {
+    "id": "conf-59",
+    "name": "apidays Singapore",
+    "description": "The global API conference series.",
+    "url": "https://www.apidays.global/singapore",
+    "location": "Singapore",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-04-14",
+    "eventEndDate": "2026-04-15"
+  },
+  {
+    "id": "conf-61",
+    "name": "App.js Conf",
+    "description": "React Native and full-stack JavaScript conference",
+    "url": "https://appjs.co/",
+    "location": "Krakow, Poland",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend",
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "estimatedAttendees": "500"
+  },
+  {
+    "id": "conf-62",
+    "name": "Appdevcon",
+    "description": "App development conference",
+    "url": "https://www.google.com/search?q=Appdevcon",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-03-10",
+    "eventEndDate": "2026-03-13"
+  },
+  {
+    "id": "conf-63",
+    "name": "AppWorld",
+    "description": "App conference",
+    "url": "https://www.google.com/search?q=AppWorld",
+    "location": "Las Vegas, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-03-10",
+    "eventEndDate": "2026-03-12"
+  },
+  {
+    "id": "conf-64",
+    "name": "AsianHOST 2026",
+    "description": "Asian Hardware Oriented Security and Trust Symposium",
+    "url": "https://www.asianhost.org/",
+    "cfpUrl": "https://www.asianhost.org/cfp.html",
+    "location": "Kharagpur, India",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-12-11",
+    "eventEndDate": "2026-12-13",
+    "cfpCloseDate": "2026-07-14"
+  },
+  {
+    "id": "conf-65",
+    "name": "Augmented World Expo 2026",
+    "description": "AR / VR / XR conference",
+    "url": "https://www.awexr.com/",
+    "location": "Long Beach, CA, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-15",
+    "eventEndDate": "2026-06-18"
+  },
+  {
+    "id": "conf-66",
+    "name": "AWS Community Day Bulgaria 2026",
+    "description": "The biggest AWS community-led conference in Bulgaria.",
+    "url": "https://www.aws-community-day.bg/",
+    "cfpUrl": "https://sessionize.com/aws-community-day-bulgaria-2026/",
+    "location": "Sofia, Bulgaria",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-10-03",
+    "eventEndDate": "2026-10-03"
+  },
+  {
+    "id": "conf-67",
+    "name": "Azure Cosmos DB Conf",
+    "description": "Azure Cosmos DB Conference",
+    "url": "https://confs.tech/data",
+    "location": "Online",
+    "region": "online",
+    "format": "virtual",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-28",
+    "eventEndDate": "2026-04-28"
+  },
+  {
+    "id": "conf-68",
+    "name": "Azure Day Roma 2026",
+    "description": "A community event for Azure enthusiasts.",
+    "url": "https://www.google.com/search?q=Azure+Day+Roma+2026",
+    "location": "Rome, Italy",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-06-19",
+    "eventEndDate": "2026-06-19"
+  },
+  {
+    "id": "conf-69",
+    "name": "AzureOnBeer 2026",
+    "description": "A community event for Azure enthusiasts.",
+    "url": "https://www.google.com/search?q=AzureOnBeer+2026",
+    "location": "Vicenza, Italy",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-09-11",
+    "eventEndDate": "2026-09-11"
+  },
+  {
+    "id": "conf-70",
+    "name": "Baltic Connect 2026",
+    "description": "AWS conference.",
+    "url": "https://www.google.com/search?q=Baltic+Connect+2026",
+    "location": "Vilnius, Lithuania",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-09",
+    "eventEndDate": "2026-04-09"
+  },
+  {
+    "id": "conf-71",
+    "name": "Beethoven Sprint 2026",
+    "description": "A strategic Plone sprint on Plone 7.",
+    "url": "https://plone.org/news-and-events/events/sprints/beethoven-sprint-2026",
+    "location": "Bonn, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "community",
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-18",
+    "eventEndDate": "2026-05-22",
+    "estimatedAttendees": "50"
+  },
+  {
+    "id": "conf-72",
+    "name": "Berlin Buzzwords",
+    "description": "Berlin Buzzwords",
+    "url": "https://confs.tech/data",
+    "location": "Berlin, Germany",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-07",
+    "eventEndDate": "2026-06-09"
+  },
+  {
+    "id": "conf-73",
+    "name": "betterCode() GenAI Summit",
+    "description": "betterCode() GenAI Summit",
+    "url": "https://confs.tech/data",
+    "location": "Mannheim, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-10",
+    "eventEndDate": "2026-06-11"
+  },
+  {
+    "id": "conf-75",
+    "name": "BSides Albany",
+    "description": "BSides is a community-driven framework for building events for and by information security community members.",
+    "url": "https://bsidesalbany.org/",
+    "location": "Albany, New York, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-06",
+    "eventEndDate": "2026-06-06"
+  },
+  {
+    "id": "conf-77",
+    "name": "BSides Maine",
+    "description": "BSides is a community-driven framework for building events for and by information security community members.",
+    "url": "https://bsidesmaine.org/",
+    "location": "Portland, Maine, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-30",
+    "eventEndDate": "2026-05-30"
+  },
+  {
+    "id": "conf-78",
+    "name": "BSides Nashville 2026",
+    "description": "BSides is a community-driven framework for building events for and by information security community members.",
+    "url": "https://www.bsidesnash.org/",
+    "location": "Nashville, Tennessee, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-15",
+    "eventEndDate": "2026-05-15"
+  },
+  {
+    "id": "conf-79",
+    "name": "BSides SATX 2026",
+    "description": "BSides is a community-driven framework for building events for and by information security community members.",
+    "url": "https://bsidessatx.com/",
+    "location": "San Antonio, Texas, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-13",
+    "eventEndDate": "2026-06-13"
+  },
+  {
+    "id": "conf-80",
+    "name": "BSides Tampa 2026",
+    "description": "BSides is a community-driven framework for building events for and by information security community members.",
+    "url": "https://bsidestampa.net/",
+    "location": "Tampa, Florida, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-15",
+    "eventEndDate": "2026-05-16"
+  },
+  {
+    "id": "conf-81",
+    "name": "BSides312",
+    "description": "BSides is a community-driven framework for building events for and by information security community members.",
+    "url": "https://bsides312.com/",
+    "location": "Chicago, Illinois, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-15",
+    "eventEndDate": "2026-05-15"
+  },
+  {
+    "id": "conf-82",
+    "name": "BSidesOK 2026",
+    "description": "BSides is a community-driven framework for building events for and by information security community members.",
+    "url": "https://bsidesok.com/",
+    "location": "Tulsa, Oklahoma, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-10",
+    "eventEndDate": "2026-04-10"
+  },
+  {
+    "id": "conf-83",
+    "name": "BSidesSLC 2026",
+    "description": "BSides is a community-driven framework for building events for and by information security community members.",
+    "url": "https://www.bsidesslc.org/",
+    "location": "Sandy, Utah, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-09",
+    "eventEndDate": "2026-04-10"
+  },
+  {
+    "id": "conf-87",
+    "name": "CHES 2026",
+    "description": "IACR Transactions on Cryptographic Hardware and Embedded Systems",
+    "url": "https://ches.iacr.org/2026/",
+    "cfpUrl": "https://tches.iacr.org/index.php/TCHES/about/submissions",
+    "location": "Antalya, Türkiye",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-10-11",
+    "eventEndDate": "2026-10-15",
+    "cfpCloseDate": "2026-04-16"
+  },
+  {
+    "id": "conf-88",
+    "name": "CHI",
+    "description": "ACM Conference on Human Factors in Computing Systems",
+    "url": "https://chi.acm.org/",
+    "location": "Yokohama, Japan",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2025-05-15",
+    "cfpCloseDate": "2024-09-05"
+  },
+  {
+    "id": "conf-90",
+    "name": "Clean Architecture Masterclass",
+    "description": "Practical, pragmatic, and realistic Clean Architecture certification training for Java developers building large-scale applications.",
+    "url": "https://clean.re/",
+    "location": "Online",
+    "region": "online",
+    "format": "virtual",
+    "audienceTypes": [
+      "backend"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-28",
+    "eventEndDate": "2026-05-29"
+  },
+  {
+    "id": "conf-91",
+    "name": "Cloud Day 2026",
+    "description": "An event dedicated to cloud computing, showcasing technology, features, scenarios, and costs.",
+    "url": "https://www.cloudday.it/",
+    "cfpUrl": "https://www.cloudday.it/",
+    "location": "Milan, Italy",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-11-18",
+    "eventEndDate": "2026-11-18"
+  },
+  {
+    "id": "conf-92",
+    "name": "Cloud Native Days Norway",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://www.google.com/search?q=Cloud+Native+Days+Norway",
+    "location": "Bergen, Norway",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-10-26",
+    "eventEndDate": "2026-10-27"
+  },
+  {
+    "id": "conf-93",
+    "name": "Cloud Native Summit Munich 2026",
+    "description": "A community-organized event that gathers adopters and technologists from open source and cloud native communities.",
+    "url": "https://www.cnsmunich.com/",
+    "cfpUrl": "https://www.cnsmunich.com/",
+    "location": "Munich, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "ai-ml",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "panel",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-06-29",
+    "eventEndDate": "2026-06-30",
+    "cfpCloseDate": "2026-04-10"
+  },
+  {
+    "id": "conf-94",
+    "name": "Codegarden",
+    "description": "Umbraco CMS conference",
+    "url": "https://codegarden.com/",
+    "location": "Copenhagen, Denmark",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "frontend",
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "estimatedAttendees": "700"
+  },
+  {
+    "id": "conf-95",
+    "name": "CodeMash",
+    "description": "A unique event that educates developers on current practices, methodologies and technology trends.",
+    "url": "https://codemash.org/",
+    "cfpUrl": "https://codemash.org/call-for-speakers/",
+    "location": "Sandusky, OH, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2027-01-12",
+    "eventEndDate": "2027-01-15"
+  },
+  {
+    "id": "conf-96",
+    "name": "CodeMash East",
+    "description": "A sister conference to CodeMash.",
+    "url": "https://codemash.org/",
+    "location": "Spotsylvania, VA, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2027-06-17",
+    "eventEndDate": "2027-06-18"
+  },
+  {
+    "id": "conf-97",
+    "name": "COLING",
+    "description": "International Conference on Computational Linguistics",
+    "url": "https://coling.org/",
+    "location": "Abu Dhabi, UAE",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2025-01-15",
+    "cfpCloseDate": "2024-09-17"
+  },
+  {
+    "id": "conf-98",
+    "name": "ComoCamp 2026",
+    "description": "ComoCamp is the annual gathering of modeling practitioners and visionaries.",
+    "url": "https://comocamp.org/",
+    "location": "Vienna, Austria",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "community",
+      "open-source"
+    ],
+    "talkFormats": [
+      "unconference",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-06",
+    "eventEndDate": "2026-05-09",
+    "estimatedAttendees": "140",
+    "notes": "Includes snacks, lunches, and dinners."
+  },
+  {
+    "id": "conf-99",
+    "name": "ConFoo",
+    "description": "Multi-technology conference with a strong web track",
+    "url": "https://confoo.ca/en",
+    "location": "Montreal, Canada",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-02-25",
+    "eventEndDate": "2026-02-27",
+    "estimatedAttendees": "800"
+  },
+  {
+    "id": "conf-101",
+    "name": "CSS Day",
+    "description": "In-depth CSS conference",
+    "url": "https://cssday.nl/",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-06-11",
+    "eventEndDate": "2026-06-12",
+    "estimatedAttendees": "400"
+  },
+  {
+    "id": "conf-102",
+    "name": "CVPR",
+    "description": "Conference on Computer Vision and Pattern Recognition",
+    "url": "https://cvpr.thecvf.com/",
+    "location": "Nashville, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2025-06-15",
+    "cfpCloseDate": "2024-11-07"
+  },
+  {
+    "id": "conf-103",
+    "name": "Cyber Security & Cloud Congress North America",
+    "description": "The Cyber Security & Cloud Congress North America is a leading event for cybersecurity and cloud professionals.",
+    "url": "https://www.cybersecuritycloudexpo.com/northamerica/",
+    "location": "San Jose, California, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-18",
+    "eventEndDate": "2026-05-19"
+  },
+  {
+    "id": "conf-104",
+    "name": "DASH by Datadog 2026",
+    "description": "DASH is a conference about building and scaling the next generation of applications, infrastructure, and technical teams.",
+    "url": "https://www.dashcon.io/",
+    "location": "New York, New York, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-09",
+    "eventEndDate": "2026-06-10"
+  },
+  {
+    "id": "conf-105",
+    "name": "data2day",
+    "description": "data2day",
+    "url": "https://confs.tech/data",
+    "location": "Cologne, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-10-07",
+    "eventEndDate": "2026-10-08"
+  },
+  {
+    "id": "conf-106",
+    "name": "Day of Data Richmond 2026",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Richmond, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-11",
+    "eventEndDate": "2026-04-11"
+  },
+  {
+    "id": "conf-107",
+    "name": "DCS-CI 2026",
+    "description": "International Conference on Design of Cyber-Secure Critical Infrastructure",
+    "url": "https://www.google.com/search?q=DCS-CI+2026",
+    "location": "Buford, Georgia, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-09-02",
+    "eventEndDate": "2026-09-03",
+    "cfpCloseDate": "2026-04-14"
+  },
+  {
+    "id": "conf-108",
+    "name": "Deckhouse Conf 2026",
+    "description": "DevOps conference.",
+    "url": "https://www.google.com/search?q=Deckhouse+Conf+2026",
+    "location": "Moscow, Russia",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-09",
+    "eventEndDate": "2026-04-09"
+  },
+  {
+    "id": "conf-109",
+    "name": "DecompileD Conference",
+    "description": "Developer conference",
+    "url": "https://www.google.com/search?q=DecompileD+Conference",
+    "location": "Dresden, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-03-12",
+    "eventEndDate": "2026-03-12"
+  },
+  {
+    "id": "conf-110",
+    "name": "Deep Dish Swift",
+    "description": "Swift conference",
+    "url": "https://www.google.com/search?q=Deep+Dish+Swift",
+    "location": "Chicago, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-12",
+    "eventEndDate": "2026-04-14"
+  },
+  {
+    "id": "conf-111",
+    "name": "DEF CON 34",
+    "description": "One of the world's largest and most notable hacker conventions.",
+    "url": "https://defcon.org/",
+    "location": "Las Vegas, NV, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-08-06",
+    "eventEndDate": "2026-08-09",
+    "estimatedAttendees": "30000"
+  },
+  {
+    "id": "conf-112",
+    "name": "DEF CON 35",
+    "description": "One of the world's largest and most notable hacker conventions.",
+    "url": "https://defcon.org/",
+    "location": "Las Vegas, NV, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2027-08-05",
+    "eventEndDate": "2027-08-08",
+    "estimatedAttendees": "30000"
+  },
+  {
+    "id": "conf-113",
+    "name": "devCampNoord 2026",
+    "description": ".NET conference.",
+    "url": "https://www.google.com/search?q=devCampNoord+2026",
+    "location": "Groningen, Netherlands",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-09",
+    "eventEndDate": "2026-04-09"
+  },
+  {
+    "id": "conf-114",
+    "name": "DevDays Europe",
+    "description": "Developer conference",
+    "url": "https://devdays.lt/",
+    "location": "Vilnius, Lithuania",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-19",
+    "eventEndDate": "2026-05-22"
+  },
+  {
+    "id": "conf-115",
+    "name": "Developer Summit Wolters Kluwer",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Barcelona, Spain",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-10",
+    "eventEndDate": "2026-04-10"
+  },
+  {
+    "id": "conf-117",
+    "name": "DevFest Africa",
+    "description": "DevFest is a global, decentralized tech conference hosted by the Google Developer Groups (GDG) community.",
+    "url": "https://www.google.com/search?q=DevFest+Africa",
+    "location": "various",
+    "region": "online",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ]
+  },
+  {
+    "id": "conf-118",
+    "name": "DevFest Chennai",
+    "description": "DevFest is a global, decentralized tech conference hosted by the Google Developer Groups (GDG) community.",
+    "url": "https://devfest.gdgchennai.in/",
+    "location": "Chennai, India",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "estimatedAttendees": "2300"
+  },
+  {
+    "id": "conf-121",
+    "name": "DevOpsCon Munich 2026",
+    "description": "The Conference for Continuous Delivery, Microservices, Docker, Clouds and Lean Business.",
+    "url": "https://devopscon.io/munich/",
+    "location": "Munich, Germany",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "cloud",
+      "backend",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-12-04",
+    "eventEndDate": "2026-12-04"
+  },
+  {
+    "id": "conf-122",
+    "name": "DevOpsCon NYC 2026",
+    "description": "The Conference for Continuous Delivery, Microservices, Docker, Clouds and Lean Business.",
+    "url": "https://devopscon.io/new-york/",
+    "location": "New York, New York, United States",
+    "region": "north-america",
+    "format": "hybrid",
+    "audienceTypes": [
+      "cloud",
+      "backend",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-10-02",
+    "eventEndDate": "2026-10-02"
+  },
+  {
+    "id": "conf-123",
+    "name": "DevOpsDays Amsterdam",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-amsterdam/",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-06-19",
+    "eventEndDate": "2026-06-19"
+  },
+  {
+    "id": "conf-124",
+    "name": "DevOpsDays Atlanta",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-atlanta/",
+    "location": "Atlanta, GA, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-04-21",
+    "eventEndDate": "2026-04-22"
+  },
+  {
+    "id": "conf-125",
+    "name": "DevOpsDays Austin",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-austin/",
+    "location": "Austin, TX, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-05",
+    "eventEndDate": "2026-05-06"
+  },
+  {
+    "id": "conf-126",
+    "name": "DevOpsDays Barcelona",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-barcelona/",
+    "location": "Barcelona, Spain",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-11-13",
+    "eventEndDate": "2026-11-14"
+  },
+  {
+    "id": "conf-127",
+    "name": "DevOpsDays Berlin",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-berlin/",
+    "location": "Berlin, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-09-29",
+    "eventEndDate": "2026-09-30"
+  },
+  {
+    "id": "conf-128",
+    "name": "DevOpsDays Brasov",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-brasov/",
+    "location": "Brasov, Romania",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-06",
+    "eventEndDate": "2026-05-07"
+  },
+  {
+    "id": "conf-130",
+    "name": "DevOpsDays Cairo",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-cairo/",
+    "location": "Cairo, Egypt",
+    "region": "africa",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-09-26",
+    "eventEndDate": "2026-09-27"
+  },
+  {
+    "id": "conf-132",
+    "name": "DevOpsDays Copenhagen",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-copenhagen/",
+    "location": "Copenhagen, Denmark",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-04-28",
+    "eventEndDate": "2026-04-29"
+  },
+  {
+    "id": "conf-133",
+    "name": "DevOpsDays Curitiba",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-curitiba/",
+    "location": "Curitiba, Brazil",
+    "region": "latin-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-08-22",
+    "eventEndDate": "2026-08-22"
+  },
+  {
+    "id": "conf-134",
+    "name": "DevOpsDays Dallas",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-dallas/",
+    "location": "Dallas, TX, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-09-28",
+    "eventEndDate": "2026-09-29"
+  },
+  {
+    "id": "conf-135",
+    "name": "DevOpsDays Denver",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-denver/",
+    "location": "Denver, CO, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-09-22",
+    "eventEndDate": "2026-09-23"
+  },
+  {
+    "id": "conf-136",
+    "name": "DevOpsDays Feira De Santana",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-feira-de-santana/",
+    "location": "Feira De Santana, Brazil",
+    "region": "latin-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-06-06",
+    "eventEndDate": "2026-06-06"
+  },
+  {
+    "id": "conf-137",
+    "name": "DevOpsDays Geneva",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-geneva/",
+    "location": "Geneva, Switzerland",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-21",
+    "eventEndDate": "2026-05-22"
+  },
+  {
+    "id": "conf-138",
+    "name": "DevOpsDays Graz",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-graz/",
+    "location": "Graz, Austria",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-09-04",
+    "eventEndDate": "2026-09-05"
+  },
+  {
+    "id": "conf-139",
+    "name": "DevOpsDays Istanbul",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-istanbul/",
+    "location": "Istanbul, Turkey",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-10-24",
+    "eventEndDate": "2026-10-24"
+  },
+  {
+    "id": "conf-140",
+    "name": "DevOpsDays Kansas City",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-kansas-city/",
+    "location": "Kansas City, MO, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-28",
+    "eventEndDate": "2026-05-29"
+  },
+  {
+    "id": "conf-141",
+    "name": "Devopsdays Kraków",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-krakow",
+    "cfpUrl": "https://devopsdays.org/events/2026-krakow/propose",
+    "location": "Krakow, Poland",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk"
+    ],
+    "eventStartDate": "2026-06-06",
+    "eventEndDate": "2026-06-06",
+    "cfpCloseDate": "2026-04-19"
+  },
+  {
+    "id": "conf-142",
+    "name": "DevOpsDays Lima",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-lima/",
+    "location": "Lima, Peru",
+    "region": "latin-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-08-27",
+    "eventEndDate": "2026-08-28"
+  },
+  {
+    "id": "conf-143",
+    "name": "DevOpsDays London",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-london/",
+    "location": "London, UK",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-09-17",
+    "eventEndDate": "2026-09-17"
+  },
+  {
+    "id": "conf-144",
+    "name": "DevOpsDays Nashville",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-nashville/",
+    "location": "Nashville, TN, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-14",
+    "eventEndDate": "2026-05-15"
+  },
+  {
+    "id": "conf-145",
+    "name": "DevOpsDays Natal",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-natal/",
+    "location": "Natal, Brazil",
+    "region": "latin-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-16",
+    "eventEndDate": "2026-05-16"
+  },
+  {
+    "id": "conf-146",
+    "name": "DevOpsDays Prague",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-prague/",
+    "location": "Prague, Czech Republic",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-10-05",
+    "eventEndDate": "2026-10-05"
+  },
+  {
+    "id": "conf-147",
+    "name": "DevOpsDays Raleigh",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-raleigh/",
+    "location": "Raleigh, NC, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-01",
+    "eventEndDate": "2026-05-01"
+  },
+  {
+    "id": "conf-148",
+    "name": "Devopsdays Recife",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-recife",
+    "location": "Recife, Brazil",
+    "region": "latin-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-12-12",
+    "eventEndDate": "2026-12-12"
+  },
+  {
+    "id": "conf-149",
+    "name": "DevOpsDays Rio De Janeiro",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-rio-de-janeiro/",
+    "location": "Rio De Janeiro, Brazil",
+    "region": "latin-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-08-15",
+    "eventEndDate": "2026-08-15"
+  },
+  {
+    "id": "conf-150",
+    "name": "DevOpsDays Sibiu",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-sibiu/",
+    "location": "Sibiu, Romania",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-27",
+    "eventEndDate": "2026-05-29"
+  },
+  {
+    "id": "conf-151",
+    "name": "DevOpsDays Tokyo",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-tokyo/",
+    "location": "Tokyo, Japan",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-04-14",
+    "eventEndDate": "2026-04-16"
+  },
+  {
+    "id": "conf-152",
+    "name": "Devopsdays Vilnius",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-vilnius",
+    "location": "Vilnius, Lithuania",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-10-01",
+    "eventEndDate": "2026-10-01"
+  },
+  {
+    "id": "conf-153",
+    "name": "DevOpsDays Zurich",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://devopsdays.org/events/2026-zurich/",
+    "location": "Zurich, Switzerland",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-06",
+    "eventEndDate": "2026-05-07"
+  },
+  {
+    "id": "conf-154",
+    "name": "Devoxx France",
+    "description": "Developer conference.",
+    "url": "https://www.devoxx.fr/",
+    "location": "Paris, France",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-22",
+    "eventEndDate": "2026-04-24"
+  },
+  {
+    "id": "conf-155",
+    "name": "Devoxx Greece",
+    "description": "Developer conference.",
+    "url": "https://devoxx.gr/",
+    "location": "Athens, Greece",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-23",
+    "eventEndDate": "2026-04-25"
+  },
+  {
+    "id": "conf-156",
+    "name": "Devoxx Poland",
+    "description": "Developer conference",
+    "url": "https://devoxx.pl/",
+    "location": "Krakow, Poland",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-17",
+    "eventEndDate": "2026-06-19"
+  },
+  {
+    "id": "conf-157",
+    "name": "Devoxx UK",
+    "description": "Developer conference",
+    "url": "https://www.devoxx.co.uk/",
+    "location": "London, UK",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-06",
+    "eventEndDate": "2026-05-07"
+  },
+  {
+    "id": "conf-160",
+    "name": "Devworld Conference",
+    "description": "Large conference covering various development topics",
+    "url": "https://devworld.com/",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-07",
+    "eventEndDate": "2026-05-08",
+    "estimatedAttendees": "2000"
+  },
+  {
+    "id": "conf-161",
+    "name": "Disney Data & Analytics Conference (DDAC)",
+    "description": "Disney Data & Analytics Conference",
+    "url": "https://confs.tech/data",
+    "location": "Orlando, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-09-14",
+    "eventEndDate": "2026-09-16"
+  },
+  {
+    "id": "conf-163",
+    "name": "droidcon London",
+    "description": "Android developer conference",
+    "url": "https://london.droidcon.com/",
+    "location": "London, UK",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-12-10",
+    "eventEndDate": "2026-12-11"
+  },
+  {
+    "id": "conf-164",
+    "name": "Drupal AI Hackathon - Play to Impact: 2026 edition",
+    "description": "Drupal AI Hackathon - Play to Impact: 2026 edition conference.",
+    "url": "https://www.google.com/search?q=Drupal+AI+Hackathon+-+Play+to+Impact:+2026+edition",
+    "location": "Brussels, Belgium",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-27",
+    "eventEndDate": "2026-01-28"
+  },
+  {
+    "id": "conf-165",
+    "name": "Drupal4Gov EU Conference 2026",
+    "description": "Drupal4Gov EU Conference 2026 conference.",
+    "url": "https://www.google.com/search?q=Drupal4Gov+EU+Conference+2026",
+    "location": "Brussels, Belgium",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-29",
+    "eventEndDate": "2026-01-29"
+  },
+  {
+    "id": "conf-166",
+    "name": "Drupalcamp Grenoble 2026",
+    "description": "Drupal conference.",
+    "url": "https://grenoble2026.drupalcamp.fr/",
+    "location": "Grenoble, France",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-09",
+    "eventEndDate": "2026-04-11"
+  },
+  {
+    "id": "conf-167",
+    "name": "DUMP Days",
+    "description": "Student-run web development conference",
+    "url": "https://dump.hr/days",
+    "location": "Split, Croatia",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "estimatedAttendees": "800"
+  },
+  {
+    "id": "conf-168",
+    "name": "DWX Developer Week",
+    "description": "Developer conference",
+    "url": "https://www.developer-week.de/",
+    "location": "Mannheim, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-07-02",
+    "eventEndDate": "2026-07-02"
+  },
+  {
+    "id": "conf-170",
+    "name": "ECIR",
+    "description": "European Conference on Information Retrieval",
+    "url": "https://ecir.org/",
+    "location": "Lucca, Italy",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2025-04-15",
+    "cfpCloseDate": "2024-10-02"
+  },
+  {
+    "id": "conf-171",
+    "name": "Eclipse Foundation's code & compliance - FOSDEM Edition",
+    "description": "Eclipse Foundation's code & compliance - FOSDEM Edition conference.",
+    "url": "https://www.google.com/search?q=Eclipse+Foundation's+code+&+compliance+-+FOSDEM+Edition",
+    "location": "Brussels, Belgium",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-29",
+    "eventEndDate": "2026-01-29"
+  },
+  {
+    "id": "conf-173",
+    "name": "Ekoparty Security Conference 2026",
+    "description": "The Ekoparty Security Conference is one of the most important security conferences in Latin America.",
+    "url": "https://www.ekoparty.org/",
+    "location": "Miami, Florida, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-21",
+    "eventEndDate": "2026-05-22"
+  },
+  {
+    "id": "conf-174",
+    "name": "enterJS Integrate AI",
+    "description": "enterJS Integrate AI",
+    "url": "https://confs.tech/data",
+    "location": "Online",
+    "region": "online",
+    "format": "virtual",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-28",
+    "eventEndDate": "2026-04-28"
+  },
+  {
+    "id": "conf-176",
+    "name": "EU Open Souce Policy Summit 2026",
+    "description": "EU Open Souce Policy Summit 2026 conference.",
+    "url": "https://www.google.com/search?q=EU+Open+Souce+Policy+Summit+2026",
+    "location": "Brussels, Belgium",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-29",
+    "eventEndDate": "2026-01-29"
+  },
+  {
+    "id": "conf-177",
+    "name": "European Microsoft Fabric Community Conference",
+    "description": "European Microsoft Fabric Community Conference",
+    "url": "https://confs.tech/data",
+    "location": "Barcelona, Spain",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-10-01",
+    "eventEndDate": "2026-10-01"
+  },
+  {
+    "id": "conf-178",
+    "name": "Everything Open 2026",
+    "description": "Everything Open 2026 conference.",
+    "url": "https://www.google.com/search?q=Everything+Open+2026",
+    "location": "Canberra, Australia",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-21",
+    "eventEndDate": "2026-01-23"
+  },
+  {
+    "id": "conf-179",
+    "name": "FediForum",
+    "description": "Conference on decentralized social media",
+    "url": "https://fediforum.org/",
+    "location": "Online",
+    "region": "online",
+    "format": "virtual",
+    "audienceTypes": [
+      "frontend",
+      "community",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "unconference"
+    ],
+    "eventStartDate": "2026-04-15",
+    "estimatedAttendees": "300"
+  },
+  {
+    "id": "conf-180",
+    "name": "FLISoL Cuenca 2026",
+    "description": "Latin American Festival of Free Software Installation. Free talks, workshops and InstallFest.",
+    "url": "https://flisolcuenca.org/",
+    "cfpUrl": "https://flisolcuenca.org/#/agenda",
+    "location": "Cuenca, Ecuador",
+    "region": "latin-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "community",
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-16",
+    "eventEndDate": "2026-05-16",
+    "notes": "Free to attend."
+  },
+  {
+    "id": "conf-181",
+    "name": "FOSDEM 2026 Fringe: FOSS license and security compliance tools workshop",
+    "description": "FOSDEM 2026 Fringe: FOSS license and security compliance tools workshop conference.",
+    "url": "https://www.google.com/search?q=FOSDEM+2026+Fringe:+FOSS+license+and+security+compliance+tools+workshop",
+    "location": "Brussels, Belgium",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-02-01",
+    "eventEndDate": "2026-02-01"
+  },
+  {
+    "id": "conf-182",
+    "name": "FOSDEM 26",
+    "description": "FOSDEM is a free event for software developers to meet, share ideas and collaborate.",
+    "url": "https://fosdem.org/",
+    "location": "Brussels, Belgium",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "open-source"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-02-01",
+    "eventEndDate": "2026-02-01",
+    "estimatedAttendees": "8000+",
+    "notes": "One of the largest open source conferences in Europe."
+  },
+  {
+    "id": "conf-183",
+    "name": "foss-north 2026",
+    "description": "foss-north is a free / open source conference covering both software and hardware from the technical perspective.",
+    "url": "https://foss-north.se/2026/",
+    "location": "Gothenburg, Sweden",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-27",
+    "eventEndDate": "2026-04-28"
+  },
+  {
+    "id": "conf-184",
+    "name": "FOSS4G Asia",
+    "description": "FOSS4G Asia conference.",
+    "url": "https://www.google.com/search?q=FOSS4G+Asia",
+    "location": "Nashik, India",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-21",
+    "eventEndDate": "2026-01-25"
+  },
+  {
+    "id": "conf-185",
+    "name": "Future Frontend",
+    "description": "Conference on the future of frontend development",
+    "url": "https://futurefrontend.com/",
+    "location": "Espoo, Finland",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "estimatedAttendees": "500"
+  },
+  {
+    "id": "conf-186",
+    "name": "Future of AI",
+    "description": "Future of AI",
+    "url": "https://confs.tech/data",
+    "location": "Tel Aviv, Israel",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-24",
+    "eventEndDate": "2026-05-25"
+  },
+  {
+    "id": "conf-187",
+    "name": "Gartner Security & Risk Management Summit",
+    "description": "The Gartner Security & Risk Management Summit is a leading event for security and risk management professionals.",
+    "url": "https://www.gartner.com/en/conferences/na/security-risk-management-us",
+    "location": "National Harbor, Maryland, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-01",
+    "eventEndDate": "2026-06-03"
+  },
+  {
+    "id": "conf-188",
+    "name": "Gateway Software Symposium",
+    "description": "A conference for software developers and architects, with a focus on Java, but also covering a wide range of other topics.",
+    "url": "https://nofluffjuststuff.com/stlouis",
+    "location": "St. Louis, MO, USA",
+    "region": "north-america",
+    "format": "hybrid",
+    "audienceTypes": [
+      "backend",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-04-02",
+    "eventEndDate": "2026-04-03"
+  },
+  {
+    "id": "conf-189",
+    "name": "Gen AI Summit 2026",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Valencia, Spain",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-11",
+    "eventEndDate": "2026-04-12"
+  },
+  {
+    "id": "conf-190",
+    "name": "GITEX AI EUROPE",
+    "description": "GITEX AI EUROPE",
+    "url": "https://confs.tech/data",
+    "location": "Berlin, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-07-01",
+    "eventEndDate": "2026-07-01"
+  },
+  {
+    "id": "conf-191",
+    "name": "GITEX AI LATAM",
+    "description": "GITEX AI LATAM",
+    "url": "https://confs.tech/data",
+    "location": "São Paulo, Brazil",
+    "region": "latin-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2027-03-16",
+    "eventEndDate": "2027-03-17"
+  },
+  {
+    "id": "conf-192",
+    "name": "GITEX AI SERBIA",
+    "description": "GITEX AI SERBIA",
+    "url": "https://confs.tech/data",
+    "location": "Belgrade, Serbia",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2027-05-26",
+    "eventEndDate": "2027-05-27"
+  },
+  {
+    "id": "conf-193",
+    "name": "GITEX ASIA 2026",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Singapore, Singapore",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-08",
+    "eventEndDate": "2026-04-09"
+  },
+  {
+    "id": "conf-194",
+    "name": "Global AI Milwaukee AgentCamp 2026",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Pewaukee, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-13",
+    "eventEndDate": "2026-04-13"
+  },
+  {
+    "id": "conf-195",
+    "name": "Global Summit on Data Science and Cloud Computing",
+    "description": "Global Summit on Data Science and Cloud Computing",
+    "url": "https://confs.tech/data",
+    "location": "Rome, Italy",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-10-19",
+    "eventEndDate": "2026-10-20"
+  },
+  {
+    "id": "conf-196",
+    "name": "GOSIM Paris 2026",
+    "description": "Top open source projects, leading developers, and the latest agentic AI frontiers — all converging at STATION F in Paris for two days of immersive developer experiences.",
+    "url": "https://paris2026.gosim.org/",
+    "cfpUrl": "https://paris2026.gosim.org/#/proposals",
+    "location": "Paris, France",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "ai-ml",
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-04",
+    "eventEndDate": "2026-05-06",
+    "cfpCloseDate": "2026-04-08",
+    "speakerPerks": [
+      "travel"
+    ],
+    "notes": "Co-located events, travel support for selected creators"
+  },
+  {
+    "id": "conf-198",
+    "name": "Great Place To Work For All Summit",
+    "description": "A summit for leaders to accelerate business performance through culture.",
+    "url": "https://www.forallsummit.com/",
+    "location": "Las Vegas, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "community",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "keynote",
+      "talk"
+    ],
+    "eventStartDate": "2026-04-21",
+    "eventEndDate": "2026-04-23",
+    "estimatedAttendees": "2000+"
+  },
+  {
+    "id": "conf-199",
+    "name": "HackerTrain",
+    "description": "HackerTrain conference.",
+    "url": "https://www.google.com/search?q=HackerTrain",
+    "location": "Various",
+    "region": "online",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-20",
+    "eventEndDate": "2026-01-20"
+  },
+  {
+    "id": "conf-200",
+    "name": "Hackmiami 2026",
+    "description": "Hackmiami is a conference and training event for cybersecurity professionals.",
+    "url": "https://hackmiami.com/",
+    "location": "Sunny Isles Beach, Florida, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-12",
+    "eventEndDate": "2026-05-16"
+  },
+  {
+    "id": "conf-201",
+    "name": "HalfStack",
+    "description": "JavaScript conference in a movie theater",
+    "url": "https://halfstackconf.com/",
+    "location": "Phoenix, AZ, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-01-30",
+    "eventEndDate": "2026-01-30",
+    "estimatedAttendees": "200"
+  },
+  {
+    "id": "conf-202",
+    "name": "Hardwear.io USA",
+    "description": "Hardwear.io is a hardware security conference.",
+    "url": "https://hardwear.io/usa-2026/",
+    "location": "Santa Clara, California, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-26",
+    "eventEndDate": "2026-05-30"
+  },
+  {
+    "id": "conf-204",
+    "name": "IaCConf 2026",
+    "description": "The conference for Infrastructure as Code professionals.",
+    "url": "https://iacconf.com/",
+    "location": "Online",
+    "region": "online",
+    "format": "virtual",
+    "audienceTypes": [
+      "cloud",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-14",
+    "eventEndDate": "2026-05-14"
+  },
+  {
+    "id": "conf-205",
+    "name": "ICASSP",
+    "description": "IEEE International Conference on Acoustics, Speech and Signal Processing",
+    "url": "https://2025.ieeeicassp.org/",
+    "location": "Hyderabad, India",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2025-04-15",
+    "cfpCloseDate": "2024-09-10"
+  },
+  {
+    "id": "conf-206",
+    "name": "ICICS 2026",
+    "description": "International Conference on Information and Communications Security",
+    "url": "https://www.google.com/search?q=ICICS+2026",
+    "location": "Fukui, Japan",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-10-27",
+    "eventEndDate": "2026-10-30",
+    "cfpCloseDate": "2026-05-23"
+  },
+  {
+    "id": "conf-208",
+    "name": "ICLR",
+    "description": "International Conference on Learning Representations",
+    "url": "https://iclr.cc/",
+    "location": "Singapore",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2025-04-15",
+    "cfpCloseDate": "2024-09-27"
+  },
+  {
+    "id": "conf-209",
+    "name": "ICML",
+    "description": "International Conference on Machine Learning",
+    "url": "https://icml.cc/",
+    "location": "TBD",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-07-15",
+    "notes": "Recurring conference, 2024 is in Vienna"
+  },
+  {
+    "id": "conf-210",
+    "name": "ICRA",
+    "description": "IEEE International Conference on Robotics and Automation",
+    "url": "https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra",
+    "location": "Atlanta, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2025-05-15",
+    "cfpCloseDate": "2024-09-16"
+  },
+  {
+    "id": "conf-211",
+    "name": "ICSC 2026",
+    "description": "Intelligent Cybersecurity Conference",
+    "url": "https://www.google.com/search?q=ICSC+2026",
+    "location": "Abu Dhabi, UAE",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-09-15",
+    "eventEndDate": "2026-09-18",
+    "cfpCloseDate": "2026-04-16"
+  },
+  {
+    "id": "conf-214",
+    "name": "Innovate Cybersecurity Summit 2026 Marco Island",
+    "description": "The Innovate Cybersecurity Summit is an invitation-only event for cybersecurity leaders.",
+    "url": "https://www.innovatecybersecurity.com/",
+    "location": "Marco Island, Florida, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-19",
+    "eventEndDate": "2026-04-21"
+  },
+  {
+    "id": "conf-215",
+    "name": "International JavaScript Conference",
+    "description": "Conference for JavaScript developers",
+    "url": "https://javascript-conference.com/",
+    "cfpUrl": "https://javascript-conference.com/london/call-for-papers/",
+    "location": "London, United Kingdom",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-11",
+    "eventEndDate": "2026-05-15",
+    "estimatedAttendees": "1000"
+  },
+  {
+    "id": "conf-216",
+    "name": "Into the Box 2026",
+    "description": "Into the Box is a conference focused on modern web development with open source technologies like BoxLang, ColdBox, and more.",
+    "url": "https://www.intothebox.org/",
+    "cfpUrl": "https://www.intothebox.org/#/speakers/call-for-speakers",
+    "location": "Washington, DC, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend",
+      "frontend",
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-01",
+    "eventEndDate": "2026-05-01"
+  },
+  {
+    "id": "conf-217",
+    "name": "iOS Conf SG",
+    "description": "iOS conference",
+    "url": "https://www.google.com/search?q=iOS+Conf+SG",
+    "location": "Singapore",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-21",
+    "eventEndDate": "2026-01-23"
+  },
+  {
+    "id": "conf-218",
+    "name": "J On The Beach",
+    "description": "J On The Beach",
+    "url": "https://confs.tech/data",
+    "location": "Malaga, Spain",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-10-29",
+    "eventEndDate": "2026-10-30"
+  },
+  {
+    "id": "conf-220",
+    "name": "JSConf Asia",
+    "description": "JavaScript conference.",
+    "url": "https://jsconf.asia/",
+    "location": "TBD",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk"
+    ]
+  },
+  {
+    "id": "conf-221",
+    "name": "JSConf China",
+    "description": "JavaScript conference.",
+    "url": "https://www.google.com/search?q=JSConf+China",
+    "location": "TBD",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk"
+    ]
+  },
+  {
+    "id": "conf-222",
+    "name": "JSConf India",
+    "description": "JavaScript conference.",
+    "url": "https://jsconf.in/",
+    "location": "Bengaluru, India",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk"
+    ]
+  },
+  {
+    "id": "conf-223",
+    "name": "JSConf Japan",
+    "description": "JavaScript conference.",
+    "url": "https://jsconf.jp/",
+    "location": "TBD",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk"
+    ]
+  },
+  {
+    "id": "conf-224",
+    "name": "JSConf Korea",
+    "description": "JavaScript conference.",
+    "url": "https://jsconf.kr/",
+    "location": "Seoul, Korea",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk"
+    ]
+  },
+  {
+    "id": "conf-226",
+    "name": "JSHeroes",
+    "description": "Community-driven JavaScript conference",
+    "url": "https://jsheroes.io/",
+    "location": "Cluj-Napoca, Romania",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-14",
+    "eventEndDate": "2026-05-15",
+    "estimatedAttendees": "700"
+  },
+  {
+    "id": "conf-227",
+    "name": "JSNation",
+    "description": "The main JavaScript conference",
+    "url": "https://jsnation.com/",
+    "cfpUrl": "https://jsnation.com/#cfp",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-06-11",
+    "eventEndDate": "2026-06-15",
+    "speakerPerks": [
+      "travel",
+      "hotel"
+    ],
+    "estimatedAttendees": "1500"
+  },
+  {
+    "id": "conf-228",
+    "name": "KCD Provence",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://www.google.com/search?q=KCD+Provence",
+    "location": "Aix-en-Provence, France",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-12-10",
+    "eventEndDate": "2026-12-10"
+  },
+  {
+    "id": "conf-229",
+    "name": "KCD Toronto",
+    "description": "KCD Toronto",
+    "url": "https://confs.tech/data",
+    "location": "Toronto, Canada",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-13",
+    "eventEndDate": "2026-05-13"
+  },
+  {
+    "id": "conf-231",
+    "name": "Laval Virtual",
+    "description": "AR / VR / XR conference",
+    "url": "https://www.google.com/search?q=Laval+Virtual",
+    "location": "Laval, France",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-08",
+    "eventEndDate": "2026-04-10"
+  },
+  {
+    "id": "conf-232",
+    "name": "LayerOne Information Security Conference",
+    "description": "LayerOne is a security conference for everyone from the curious novice to the seasoned professional.",
+    "url": "https://www.layerone.org/",
+    "location": "Pasadena, California, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-23",
+    "eventEndDate": "2026-05-24"
+  },
+  {
+    "id": "conf-235",
+    "name": "Linux Foundation Decentralized Trust",
+    "description": "Linux Foundation Decentralized Trust conference.",
+    "url": "https://www.google.com/search?q=Linux+Foundation+Decentralized+Trust",
+    "location": "Jersey City, New Jersey, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-28",
+    "eventEndDate": "2026-01-29"
+  },
+  {
+    "id": "conf-236",
+    "name": "Linux Security Summit North America",
+    "description": "The Linux Security Summit is a technical forum for developers and users of Linux security technologies.",
+    "url": "https://events.linuxfoundation.org/linux-security-summit-north-america/",
+    "location": "Minneapolis, Minnesota, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-21",
+    "eventEndDate": "2026-05-22"
+  },
+  {
+    "id": "conf-237",
+    "name": "MadVue",
+    "description": "Vue.js conference in Madrid",
+    "url": "https://madvue.com/",
+    "location": "Madrid, Spain",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-22",
+    "eventEndDate": "2026-05-22",
+    "estimatedAttendees": "300"
+  },
+  {
+    "id": "conf-238",
+    "name": "MAU Vegas",
+    "description": "Mobile acquisition and retention summit",
+    "url": "https://mauvegas.com/",
+    "location": "Las Vegas, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-19",
+    "eventEndDate": "2026-05-21"
+  },
+  {
+    "id": "conf-239",
+    "name": "mDevCamp",
+    "description": "Mobile developer camp",
+    "url": "https://mdevcamp.eu/",
+    "location": "Prague, Czech Republic",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-03",
+    "eventEndDate": "2026-06-04"
+  },
+  {
+    "id": "conf-240",
+    "name": "Microsoft JDConf 2026",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Online",
+    "region": "online",
+    "format": "virtual",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-08",
+    "eventEndDate": "2026-04-09"
+  },
+  {
+    "id": "conf-241",
+    "name": "Minds Mastering Machines - M3",
+    "description": "Minds Mastering Machines",
+    "url": "https://confs.tech/data",
+    "location": "Karlsruhe, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-22",
+    "eventEndDate": "2026-04-23"
+  },
+  {
+    "id": "conf-242",
+    "name": "MLcon Amsterdam",
+    "description": "Machine Learning Conference",
+    "url": "https://confs.tech/data",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-20",
+    "eventEndDate": "2026-04-24"
+  },
+  {
+    "id": "conf-243",
+    "name": "MLcon London",
+    "description": "Machine Learning Conference",
+    "url": "https://confs.tech/data",
+    "location": "London, UK",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-11",
+    "eventEndDate": "2026-05-15"
+  },
+  {
+    "id": "conf-244",
+    "name": "MLcon Munich",
+    "description": "Machine Learning Conference",
+    "url": "https://confs.tech/data",
+    "location": "Munich, Germany",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-22",
+    "eventEndDate": "2026-06-26"
+  },
+  {
+    "id": "conf-245",
+    "name": "MLcon San Diego",
+    "description": "Machine Learning Conference",
+    "url": "https://confs.tech/data",
+    "location": "San Diego, USA",
+    "region": "north-america",
+    "format": "hybrid",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-01",
+    "eventEndDate": "2026-06-05"
+  },
+  {
+    "id": "conf-246",
+    "name": "Mobile World Congress (MWC) Barcelona",
+    "description": "Mobile technology conference",
+    "url": "https://www.mwcbarcelona.com/",
+    "location": "Barcelona, Spain",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "mobile"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-03-02",
+    "eventEndDate": "2026-03-05"
+  },
+  {
+    "id": "conf-247",
+    "name": "NAACL",
+    "description": "North American Chapter of the Association for Computational Linguistics",
+    "url": "https://naacl.org/",
+    "location": "TBD",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "notes": "Recurring conference, 2025 was in Mexico City"
+  },
+  {
+    "id": "conf-248",
+    "name": "NDC AI",
+    "description": "AI-focused software development conference.",
+    "url": "https://ndc-ai.com/",
+    "location": "Oslo, Norway",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-08",
+    "eventEndDate": "2026-06-10"
+  },
+  {
+    "id": "conf-250",
+    "name": "NDC Oslo",
+    "description": "Software development conference.",
+    "url": "https://ndcoslo.com/",
+    "location": "Oslo, Norway",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-09-14",
+    "eventEndDate": "2026-09-18"
+  },
+  {
+    "id": "conf-251",
+    "name": "NDC Sydney",
+    "description": "Software development conference.",
+    "url": "https://ndcsydney.com/",
+    "location": "Sydney, Australia",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-22",
+    "eventEndDate": "2026-04-24"
+  },
+  {
+    "id": "conf-252",
+    "name": "NDC TechTown",
+    "description": "Software development conference.",
+    "url": "https://ndctechtown.com/",
+    "location": "Kongsberg, Norway",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-09-21",
+    "eventEndDate": "2026-09-24"
+  },
+  {
+    "id": "conf-253",
+    "name": "NDC Toronto",
+    "description": "Software development conference.",
+    "url": "https://ndctoronto.com/",
+    "location": "Toronto, Canada",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-05",
+    "eventEndDate": "2026-05-08"
+  },
+  {
+    "id": "conf-255",
+    "name": "Nerdearla 2025 Santiago",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Santiago, Chile",
+    "region": "latin-america",
+    "format": "hybrid",
+    "audienceTypes": [
+      "data",
+      "general-tech",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-13",
+    "eventEndDate": "2026-04-18"
+  },
+  {
+    "id": "conf-256",
+    "name": "Nerdearla España 2027",
+    "description": "A conference for developers and IT infrastructure professionals.",
+    "url": "https://www.google.com/search?q=Nerdearla+España+2027",
+    "location": "Madrid, Spain",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2027-04-01",
+    "eventEndDate": "2027-04-03"
+  },
+  {
+    "id": "conf-257",
+    "name": "Netys2026",
+    "description": "The International Conference on NETworking and SYStems.",
+    "url": "https://www.netys.net/",
+    "location": "Agadir, Morocco",
+    "region": "africa",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "general-tech",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-06-08",
+    "eventEndDate": "2026-06-12"
+  },
+  {
+    "id": "conf-258",
+    "name": "NeurIPS",
+    "description": "Conference on Neural Information Processing Systems",
+    "url": "https://nips.cc/",
+    "location": "TBD",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-12-15",
+    "notes": "Recurring conference, 2024 is in Vancouver"
+  },
+  {
+    "id": "conf-259",
+    "name": "New England Software Symposium",
+    "description": "New England Software Symposium",
+    "url": "https://confs.tech/data",
+    "location": "Boston, USA",
+    "region": "north-america",
+    "format": "hybrid",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-01",
+    "eventEndDate": "2026-05-01"
+  },
+  {
+    "id": "conf-261",
+    "name": "NextG-Sec 2026",
+    "description": "NextG Networks Cryptography and Security",
+    "url": "https://www.google.com/search?q=NextG-Sec+2026",
+    "location": "Stony Brook, New York, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-23",
+    "eventEndDate": "2026-06-26",
+    "cfpCloseDate": "2026-04-11",
+    "notes": "Co-located with ACNS 2026"
+  },
+  {
+    "id": "conf-263",
+    "name": "NG-DE",
+    "description": "Germany's largest Angular conference",
+    "url": "https://ng-de.org/",
+    "location": "Berlin, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "estimatedAttendees": "600"
+  },
+  {
+    "id": "conf-264",
+    "name": "ng-India",
+    "description": "India's largest Angular conference",
+    "url": "https://www.ng-ind.com/",
+    "location": "Gurgaon, India",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "estimatedAttendees": "1000"
+  },
+  {
+    "id": "conf-265",
+    "name": "Nodes AI 2026",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Online",
+    "region": "online",
+    "format": "virtual",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-15",
+    "eventEndDate": "2026-04-15"
+  },
+  {
+    "id": "conf-268",
+    "name": "OpenSSF Community Day North America",
+    "description": "The OpenSSF Community Day is a one-day event for the open source security community.",
+    "url": "https://events.linuxfoundation.org/openssf-community-day-north-america/",
+    "location": "Minneapolis, Minnesota, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security",
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-21",
+    "eventEndDate": "2026-05-21"
+  },
+  {
+    "id": "conf-269",
+    "name": "Overture Member Summit",
+    "description": "The Overture Maps Foundation Member Summit is our annual event where members come together to exchange ideas, strengthen connections, and set Overture’s future direction.",
+    "url": "https://events.linuxfoundation.org/overture-member-summit/",
+    "location": "Florence, Italy",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "community",
+      "open-source"
+    ],
+    "talkFormats": [
+      "keynote",
+      "talk"
+    ],
+    "eventStartDate": "2026-04-21",
+    "eventEndDate": "2026-04-23",
+    "notes": "Free for Overture Maps members."
+  },
+  {
+    "id": "conf-270",
+    "name": "OW2Con",
+    "description": "Open Source conference in Paris-Chatillon, France",
+    "url": "https://www.google.com/search?q=OW2Con",
+    "location": "Paris-Chatillon, France",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ]
+  },
+  {
+    "id": "conf-273",
+    "name": "OWASP AppSec Days Portugal 2026",
+    "description": "Portugal’s premier application security conference.",
+    "url": "https://www.appsecdays.pt/",
+    "location": "TBD",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-09-23",
+    "eventEndDate": "2026-09-24",
+    "estimatedAttendees": "400"
+  },
+  {
+    "id": "conf-275",
+    "name": "OWASP AppSec Italy Day 2026",
+    "description": "A free, one-day, in-person event focused on application security, AI security, DevSecOps, and secure software development.",
+    "url": "https://owasp.org/www-chapter-italy/",
+    "location": "Cagliari, Sardinia, Italy",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "security",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-17",
+    "eventEndDate": "2026-06-18"
+  },
+  {
+    "id": "conf-276",
+    "name": "OWASP BASC 2026",
+    "description": "The OWASP Boston Application Security Conference (BASC) is the premier application security conference in the New England region.",
+    "url": "https://owasp.org/www-chapter-boston/",
+    "location": "Cambridge, Massachusetts, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-11",
+    "eventEndDate": "2026-04-11"
+  },
+  {
+    "id": "conf-280",
+    "name": "OWASP LASCON 2026",
+    "description": "The Lonestar Application Security Conference (LASCON) is an annual conference held in Austin, TX.",
+    "url": "https://lascon.org/",
+    "location": "Austin, TX, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-10-27",
+    "eventEndDate": "2026-10-30",
+    "estimatedAttendees": "400"
+  },
+  {
+    "id": "conf-281",
+    "name": "OWASP SnowFROC 2026",
+    "description": "SnowFROC is a conference for security professionals, by security professionals.",
+    "url": "https://www.snowfroc.com/",
+    "location": "Denver, Colorado, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-16",
+    "eventEndDate": "2026-04-17"
+  },
+  {
+    "id": "conf-282",
+    "name": "PASS Data Community Summit",
+    "description": "The go-to conference for data professionals to connect, share, and learn with peers and industry leaders.",
+    "url": "https://passdatacommunitysummit.com/",
+    "location": "Chicago, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend",
+      "data"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-07",
+    "eventEndDate": "2026-05-08"
+  },
+  {
+    "id": "conf-283",
+    "name": "performance.now()",
+    "description": "Web performance conference",
+    "url": "https://perfnow.nl/",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-11-19",
+    "eventEndDate": "2026-11-20",
+    "estimatedAttendees": "400"
+  },
+  {
+    "id": "conf-284",
+    "name": "Pixel Pioneers",
+    "description": "Affordable conference for web designers and developers",
+    "url": "https://pixelpioneers.co/",
+    "location": "Bristol, United Kingdom",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-06-19",
+    "eventEndDate": "2026-06-19",
+    "estimatedAttendees": "300"
+  },
+  {
+    "id": "conf-285",
+    "name": "Pole Position Sprint 2026",
+    "description": "Open Source conference in Kerpen, Germany",
+    "url": "https://www.google.com/search?q=Pole+Position+Sprint+2026",
+    "location": "Kerpen, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ]
+  },
+  {
+    "id": "conf-286",
+    "name": "POPL",
+    "description": "The annual Symposium on Principles of Programming Languages is a forum for the discussion of all aspects of programming languages and programming systems.",
+    "url": "https://popl25.sigplan.org/",
+    "cfpUrl": "https://popl25.sigplan.org/track/POPL-2025-POPL-Research-Papers#Call-for-Papers",
+    "location": "Denver, Colorado, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2025-01-19",
+    "eventEndDate": "2025-01-25"
+  },
+  {
+    "id": "conf-288",
+    "name": "Pune Global Azure 2026",
+    "description": "A community event for Azure enthusiasts.",
+    "url": "https://puneusergroup.org/events/ga2026/",
+    "cfpUrl": "https://sessionize.com/pune-global-azure-2026/",
+    "location": "Pune, India",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-04-18",
+    "eventEndDate": "2026-04-18",
+    "cfpCloseDate": "2026-04-11"
+  },
+  {
+    "id": "conf-289",
+    "name": "PyCon Africa",
+    "description": "Five days of learning, networking, and collaboration designed for Python enthusiasts at every level.",
+    "url": "https://africa.pycon.org/",
+    "cfpUrl": "https://africa.pycon.org/speak",
+    "location": "Kampala, Uganda",
+    "region": "africa",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-10-07",
+    "eventEndDate": "2026-10-11",
+    "notes": "Code Community and Opportunity"
+  },
+  {
+    "id": "conf-290",
+    "name": "PyCon DE & PyData 2026",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Darmstadt, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-13",
+    "eventEndDate": "2026-04-17"
+  },
+  {
+    "id": "conf-291",
+    "name": "PyCon Latam",
+    "description": "The largest Python conference in Latin America.",
+    "url": "https://pylatam.org/",
+    "cfpUrl": "https://pylatam.org/#/propose-a-talk",
+    "location": "Turrialba, Costa Rica",
+    "region": "latin-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-08-20",
+    "eventEndDate": "2026-08-23"
+  },
+  {
+    "id": "conf-292",
+    "name": "PyCon Lithuania",
+    "description": "Python conference.",
+    "url": "https://pycon.lt/",
+    "location": "Vilnius, Lithuania",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-08",
+    "eventEndDate": "2026-04-10"
+  },
+  {
+    "id": "conf-293",
+    "name": "PyTorch Conference Europe",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Paris, France",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-07",
+    "eventEndDate": "2026-04-08"
+  },
+  {
+    "id": "conf-294",
+    "name": "Qld AI Festival",
+    "description": "Qld AI Festival",
+    "url": "https://confs.tech/data",
+    "location": "Brisbane, Australia",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-28",
+    "eventEndDate": "2026-05-29"
+  },
+  {
+    "id": "conf-296",
+    "name": "React Norway",
+    "description": "Norway's largest React conference",
+    "url": "https://reactnorway.com/",
+    "location": "Oslo, Norway",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-06-05",
+    "eventEndDate": "2026-06-05",
+    "estimatedAttendees": "400"
+  },
+  {
+    "id": "conf-297",
+    "name": "Replay: The Durable Execution Conference for Agentic AI",
+    "description": "The Durable Execution Conference for Agentic AI",
+    "url": "https://confs.tech/data",
+    "location": "San Francisco, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-05",
+    "eventEndDate": "2026-05-07"
+  },
+  {
+    "id": "conf-298",
+    "name": "Rise of AI Converence",
+    "description": "Rise of AI Converence",
+    "url": "https://confs.tech/data",
+    "location": "Berlin, Germany",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-05",
+    "eventEndDate": "2026-05-06"
+  },
+  {
+    "id": "conf-299",
+    "name": "RSA Conference 2026",
+    "description": "The world's largest cybersecurity conference.",
+    "url": "https://www.rsaconference.com/usa",
+    "cfpUrl": "https://www.rsaconference.com/usa/call-for-submissions",
+    "location": "San Francisco, CA, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security",
+      "general-tech"
+    ],
+    "talkFormats": [
+      "keynote",
+      "panel",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-03-23",
+    "eventEndDate": "2026-03-26",
+    "estimatedAttendees": "40000"
+  },
+  {
+    "id": "conf-302",
+    "name": "SecretCon 4",
+    "description": "SecretCon is a conference for security professionals.",
+    "url": "https://secretcon.com/",
+    "location": "Minneapolis, Minnesota, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-04",
+    "eventEndDate": "2026-06-05"
+  },
+  {
+    "id": "conf-303",
+    "name": "SECRYPT 2026",
+    "description": "International Conference on Security and Cryptography",
+    "url": "https://secrypt.scitevents.org/",
+    "cfpUrl": "https://secrypt.scitevents.org/CallForPapers.aspx",
+    "location": "Porto, Portugal",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-07-16",
+    "eventEndDate": "2026-07-18",
+    "cfpCloseDate": "2026-04-17"
+  },
+  {
+    "id": "conf-304",
+    "name": "Security Days 2026",
+    "description": "A cybersecurity conference organized by GÉANT, focused on protecting trust, collaboration, and open research across Europe and beyond.",
+    "url": "https://events.geant.org/event/1639/",
+    "location": "Utrecht, Netherlands",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-15",
+    "notes": "Part of GÉANT"
+  },
+  {
+    "id": "conf-305",
+    "name": "Simpl Annual Community Event 2026",
+    "description": "Simpl Annual Community Event 2026 conference.",
+    "url": "https://www.google.com/search?q=Simpl+Annual+Community+Event+2026",
+    "location": "Brussels, Belgium",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-29",
+    "eventEndDate": "2026-01-29"
+  },
+  {
+    "id": "conf-306",
+    "name": "SmartSP 2026",
+    "description": "EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles",
+    "url": "https://www.google.com/search?q=SmartSP+2026",
+    "location": "Detroit, MI, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-11-05",
+    "eventEndDate": "2026-11-06",
+    "cfpCloseDate": "2026-05-02"
+  },
+  {
+    "id": "conf-307",
+    "name": "SmashingConf",
+    "description": "Conference for web designers and developers",
+    "url": "https://smashingconf.com/",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-04-13",
+    "eventEndDate": "2026-04-16",
+    "speakerPerks": [
+      "travel",
+      "hotel"
+    ],
+    "estimatedAttendees": "500"
+  },
+  {
+    "id": "conf-308",
+    "name": "SmashingConf Amsterdam",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "general-tech",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-13",
+    "eventEndDate": "2026-04-16"
+  },
+  {
+    "id": "conf-309",
+    "name": "SO-CON 2026",
+    "description": "SO-CON is a conference for special operations and national security professionals.",
+    "url": "https://www.google.com/search?q=SO-CON+2026",
+    "location": "Arlington, Virginia, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "security"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-13",
+    "eventEndDate": "2026-04-18"
+  },
+  {
+    "id": "conf-310",
+    "name": "Software Heritage 2026 Symposium and Summit",
+    "description": "Software Heritage 2026 Symposium and Summit conference.",
+    "url": "https://www.google.com/search?q=Software+Heritage+2026+Symposium+and+Summit",
+    "location": "Paris, France",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-28",
+    "eventEndDate": "2026-01-28"
+  },
+  {
+    "id": "conf-311",
+    "name": "SREcon26 Americas",
+    "description": "A gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale.",
+    "url": "https://www.usenix.org/conference/srecon26americas",
+    "cfpUrl": "https://www.usenix.org/conference/srecon26americas/call-for-participation",
+    "location": "Seattle, WA, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "lightning",
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-03-24",
+    "eventEndDate": "2026-03-26"
+  },
+  {
+    "id": "conf-313",
+    "name": "stackconf 2026",
+    "description": "stackconf is all about open source infrastructure – covering CI/CD, containers, hybrid systems and cloud technology.",
+    "url": "https://stackconf.eu/",
+    "location": "Munich, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "cloud",
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-28",
+    "eventEndDate": "2026-04-29",
+    "estimatedAttendees": "100+"
+  },
+  {
+    "id": "conf-314",
+    "name": "TAKEOFF By OpenSourceNest",
+    "description": "Open Source conference in Nsukka, Nigeria",
+    "url": "https://www.google.com/search?q=TAKEOFF+By+OpenSourceNest",
+    "location": "Nsukka, Nigeria",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ]
+  },
+  {
+    "id": "conf-316",
+    "name": "Teamz Summit 2026",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Tokyo, Japan",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-15",
+    "eventEndDate": "2026-04-16"
+  },
+  {
+    "id": "conf-317",
+    "name": "Tech Summit on Big Data, Data Science & ML",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Orlando, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-13",
+    "eventEndDate": "2026-04-14"
+  },
+  {
+    "id": "conf-318",
+    "name": "TechEx North America",
+    "description": "TechEx North America",
+    "url": "https://confs.tech/data",
+    "location": "San Jose, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-18",
+    "eventEndDate": "2026-05-19"
+  },
+  {
+    "id": "conf-319",
+    "name": "The AI Conf",
+    "description": "The AI Conf",
+    "url": "https://confs.tech/data",
+    "location": "Barcelona, Spain",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-11-03",
+    "eventEndDate": "2026-11-04"
+  },
+  {
+    "id": "conf-320",
+    "name": "The Brasov Forum",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Brasov, Romania",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-07",
+    "eventEndDate": "2026-04-09"
+  },
+  {
+    "id": "conf-321",
+    "name": "The European Open Source Awards",
+    "description": "The European Open Source Awards conference.",
+    "url": "https://www.google.com/search?q=The+European+Open+Source+Awards",
+    "location": "Brussels, Belgium",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-01-29",
+    "eventEndDate": "2026-01-29"
+  },
+  {
+    "id": "conf-322",
+    "name": "The Principal Dev – Masterclass for Tech Leads",
+    "description": "A two-day certification masterclass for tech leads.",
+    "url": "https://principal.dev/",
+    "location": "Online",
+    "region": "online",
+    "format": "virtual",
+    "audienceTypes": [
+      "backend",
+      "community"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-28",
+    "eventEndDate": "2026-05-29"
+  },
+  {
+    "id": "conf-323",
+    "name": "Typescript AI Conference: Demo Edition",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "San Francisco, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-09",
+    "eventEndDate": "2026-04-09"
+  },
+  {
+    "id": "conf-324",
+    "name": "Unlocked Conference",
+    "description": "A focused day of practitioner-level learning for engineers building and scaling low-latency systems with Valkey.",
+    "url": "https://www.unlockedconf.io/",
+    "cfpUrl": "https://unlocked.gomomento.com/submit-a-talk",
+    "location": "Seattle, WA, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "backend",
+      "data",
+      "open-source"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-07",
+    "eventEndDate": "2026-05-07",
+    "estimatedAttendees": "150"
+  },
+  {
+    "id": "conf-325",
+    "name": "Update Conference Krakow 2026",
+    "description": "A world-class .NET developer conference.",
+    "url": "https://krakow.updateconference.net/",
+    "location": "Krakow, Poland",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "cloud",
+      "backend",
+      "platform-engineering"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-05-27",
+    "eventEndDate": "2026-05-28"
+  },
+  {
+    "id": "conf-326",
+    "name": "Uphill Conf",
+    "description": "Uphill Conf",
+    "url": "https://confs.tech/data",
+    "location": "Bern, Switzerland",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-05-07",
+    "eventEndDate": "2026-05-08"
+  },
+  {
+    "id": "conf-327",
+    "name": "Vuejs Amsterdam",
+    "description": "The world's largest Vue.js conference",
+    "url": "https://vuejs.amsterdam/",
+    "location": "Amsterdam, Netherlands",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-03-12",
+    "eventEndDate": "2026-03-13",
+    "estimatedAttendees": "2000"
+  },
+  {
+    "id": "conf-329",
+    "name": "WACV",
+    "description": "Winter Conference on Applications of Computer Vision",
+    "url": "https://wacv.thecvf.com/",
+    "location": "Tucson, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2025-03-15",
+    "cfpCloseDate": "2024-09-11"
+  },
+  {
+    "id": "conf-330",
+    "name": "WeAreDevelopers Conference India",
+    "description": "WeAreDevelopers Conference India",
+    "url": "https://confs.tech/data",
+    "location": "Bengaluru, India",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-11-25",
+    "eventEndDate": "2026-11-26"
+  },
+  {
+    "id": "conf-331",
+    "name": "WeAreDevelopers World Congress Europe",
+    "description": "The world's leading event for developers and tech decision-makers.",
+    "url": "https://www.wearedevelopers.com/world-congress",
+    "location": "Berlin, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-07-08",
+    "eventEndDate": "2026-07-10",
+    "estimatedAttendees": "15000+"
+  },
+  {
+    "id": "conf-332",
+    "name": "WeAreDevelopers World Congress North America",
+    "description": "The ultimate tech conference for AI, software, and innovation.",
+    "url": "https://www.wearedevelopers.com/world-congress-north-america",
+    "location": "San Jose, CA, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-09-23",
+    "eventEndDate": "2026-09-25",
+    "estimatedAttendees": "10000+"
+  },
+  {
+    "id": "conf-333",
+    "name": "Webinale",
+    "description": "Conference for web developers, designers, and product managers",
+    "url": "https://webinale.de/en/",
+    "location": "Berlin, Germany",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "estimatedAttendees": "800"
+  },
+  {
+    "id": "conf-334",
+    "name": "Weblica",
+    "description": "Web development conference in Croatia",
+    "url": "https://weblica.hr/",
+    "location": "Strigova, Croatia",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "estimatedAttendees": "300"
+  },
+  {
+    "id": "conf-335",
+    "name": "Wey Wey Web",
+    "description": "Web development conference in Spain",
+    "url": "https://weyweyweb.com/",
+    "location": "Torremolinos, Málaga, Spain",
+    "region": "europe",
+    "format": "hybrid",
+    "audienceTypes": [
+      "frontend"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2026-10-29",
+    "eventEndDate": "2026-10-30",
+    "estimatedAttendees": "500"
+  },
+  {
+    "id": "conf-336",
+    "name": "WordCamp Asia 2026",
+    "description": "WordPress conference.",
+    "url": "https://asia.wordcamp.org/2026/",
+    "location": "Mumbai, India",
+    "region": "asia-pacific",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-09",
+    "eventEndDate": "2026-04-11"
+  },
+  {
+    "id": "conf-337",
+    "name": "World AI Expo 2026 Dubai",
+    "description": "Artificial Intelligence (AI) conference",
+    "url": "https://dev.events/ai",
+    "location": "Dubai, United Arab Emirates",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-09",
+    "eventEndDate": "2026-04-10"
+  },
+  {
+    "id": "conf-340",
+    "name": "WSDM",
+    "description": "ACM International Conference on Web Search and Data Mining",
+    "url": "https://www.wsdm-conference.org/",
+    "location": "Hannover, Germany",
+    "region": "europe",
+    "format": "in-person",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2025-03-15",
+    "cfpCloseDate": "2024-08-07"
+  },
+  {
+    "id": "conf-341",
+    "name": "XP 2026",
+    "description": "Agile conference.",
+    "url": "https://www.google.com/search?q=XP+2026",
+    "location": "Sao Paulo, Brazil",
+    "region": "latin-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-04-08",
+    "eventEndDate": "2026-04-11"
+  },
+  {
+    "id": "conf-342",
+    "name": "XtremeAI Online Conference",
+    "description": "XtremeAI Online Conference",
+    "url": "https://confs.tech/data",
+    "location": "Online",
+    "region": "online",
+    "format": "virtual",
+    "audienceTypes": [
+      "data",
+      "ai-ml"
+    ],
+    "talkFormats": [
+      "talk"
+    ],
+    "eventStartDate": "2026-06-02",
+    "eventEndDate": "2026-06-02"
+  }
+]
