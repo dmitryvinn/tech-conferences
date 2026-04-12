@@ -1,6 +1,6 @@
 # Tech Conferences
 
-A curated, community-maintained list of **279 tech conferences** where developer advocates, DevRel professionals, and technical speakers should be submitting talks. This dataset powers the [DevRel Academy CFP Tracker](https://devrelacademy.com/cfp-tracker).
+A curated, community-maintained list of **786 tech conferences** where developer advocates, DevRel professionals, and technical speakers should be submitting talks. This dataset powers the [DevRel Academy CFP Tracker](https://devrelacademy.com/cfp-tracker).
 
 ## What's Inside
 
@@ -18,16 +18,19 @@ The `conferences.json` file contains structured data for each conference includi
 
 | Category | Count | Examples |
 |----------|-------|---------|
-| Open Source | 45+ | All Things Open, FOSDEM, Open Source Summit |
-| AI & Machine Learning | 35+ | NeurIPS, ICML, AI Engineer Summit |
-| Cloud & Infrastructure | 30+ | KubeCon, AWS re:Invent, HashiConf |
-| General Tech | 50+ | SXSW, Web Summit, Strange Loop |
-| Security | 15+ | DEF CON, Black Hat, BSides |
-| Frontend & Web | 20+ | React Conf, CSS Day, JSConf |
-| Backend & APIs | 15+ | GopherCon, RustConf, PyCon |
-| Community | 20+ | DjangoCon, PyCon, RubyConf |
+| General Tech | 430+ | SXSW, Web Summit, Strange Loop |
+| AI & Machine Learning | 280+ | NeurIPS, ICML, AI Engineer Summit |
+| Data & Analytics | 130+ | Data Council, dbt Coalesce, Strata |
+| Cloud & Infrastructure | 130+ | KubeCon, AWS re:Invent, HashiConf |
+| Security | 125+ | DEF CON, Black Hat, BSides |
+| Developer Experience | 110+ | DX Summit, Developer Week |
+| Platform Engineering | 105+ | PlatformCon, KubeCon |
+| Open Source | 85+ | All Things Open, FOSDEM, Open Source Summit |
+| Frontend & Web | 75+ | React Conf, CSS Day, JSConf |
+| Backend & APIs | 70+ | GopherCon, RustConf, PyCon |
+| Community | 45+ | DjangoCon, PyCon, RubyConf |
+| Mobile | 45+ | droidcon, Swift Heroes, App Devcon |
 | DevRel & Advocacy | 10+ | DevRelCon, DevRel Summit |
-| Data & Analytics | 10+ | Data Council, dbt Coalesce |
 
 ## Data Schema
 
