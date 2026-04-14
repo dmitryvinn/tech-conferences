@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths:
       - 'conferences.json'
-
+  workflow_dispatch:    # ← add this line
 jobs:
   notify:
     runs-on: ubuntu-latest
