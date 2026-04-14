@@ -1,0 +1,78 @@
+name: CFP Status Updater
+
+on:
+  schedule:
+    - cron: '0 5 * * *'   # Daily — 05:00 UTC
+  workflow_dispatch:
+
+jobs:
+  cfp-status:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      issues: write
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run CFP status updater
+        run: node scripts/cfp-status-updater.mjs
+
+      - name: Create or update status issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const report = JSON.parse(fs.readFileSync('scripts/cfp-status-report.json', 'utf8'));
+            const markdown = fs.readFileSync('scripts/cfp-status-report.md', 'utf8');
+
+            const actionable = report.closingSoon.length + report.recentlyClosed.length +
+                               report.upcomingEvents.length + report.pastEvents.length;
+            if (actionable === 0) {
+              console.log('No actionable CFP status changes — skipping issue');
+              return;
+            }
+
+            const { data: issues } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'cfp-status',
+              per_page: 1,
+            });
+
+            const title = `CFP Status — ${report.closingSoon.length} closing soon, ${report.stats.openCfps} open`;
+
+            if (issues.length > 0) {
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issues[0].number,
+                title,
+                body: markdown,
+              });
+            } else {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body: markdown,
+                labels: ['cfp-status'],
+              });
+            }
+
+      - name: Upload status report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cfp-status-${{ github.run_id }}
+          path: |
+            scripts/cfp-status-report.json
+            scripts/cfp-status-report.md
+          retention-days: 30
