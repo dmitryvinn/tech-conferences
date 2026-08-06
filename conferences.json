@@ -19287,5 +19287,39 @@
     "speakerPerks": [
       "travel"
     ]
+  },
+  {
+    "id": "scale-24x",
+    "name": "Southern California Linux Expo",
+    "description": "The largest Free and Open Source Software conference in North America. Volunteer-run with 20+ tracks and co-located events across 4 days of talks, workshops, expo and fun.",
+    "url": "https://www.socallinuxexpo.org/",
+    "cfpUrl": "https://www.socallinuxexpo.org/scale/24x/cfp",
+    "location": "Pasadena, California, USA",
+    "region": "north-america",
+    "format": "in-person",
+    "audienceTypes": [
+      "general-tech",
+      "developer-experience",
+      "open-source",
+      "platform-engineering",
+      "ai-ml",
+      "cloud",
+      "security"
+    ],
+    "talkFormats": [
+      "talk",
+      "workshop"
+    ],
+    "eventStartDate": "2027-04-01",
+    "eventEndDate": "2027-04-04",
+    "cfpCloseDate": "2026-11-01",
+    "speakerPerks": [],
+    "estimatedAttendees": "3000-4000",
+    "tags": [
+      "open-source",
+      "free-software",
+      "community",
+      "linux"
+    ]
   }
 ]
